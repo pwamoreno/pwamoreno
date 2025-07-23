@@ -1,6 +1,6 @@
 ## Hi, I'm Moreno
 
-Freelance Software Developer<br/>
+Freelance Software Engineer<br/>
 Self-taught Graphics Designer<br/>
 I try to blend both design and code to create niche stuff
 
